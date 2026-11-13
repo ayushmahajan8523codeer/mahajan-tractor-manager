@@ -1,0 +1,19 @@
+name: mahajan_tractor_manager
+description: "Mahajan Tractor Rental App"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  url_launcher: ^6.3.0
+  pdf: ^3.10.8
+  printing: ^5.12.0
+  uuid: ^4.4.0
+
+flutter:
+  uses-material-design: true
